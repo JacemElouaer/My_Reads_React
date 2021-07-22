@@ -2,12 +2,21 @@
 
 Is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 
-## TL;DR
 
-To give an eye to the project:
-* git clone https://github.com/JacemElouaer/My_Reads_React.git
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
+
+### `installing`
+
+
+```js
+git clone https://github.com/JacemElouaer/My_Reads_React.git
+```
+```js
+install all project dependencies with `npm install`
+```
+```js
+ start the development server with `npm start
+```
+
 
 ## What You're Getting
 ```bash
